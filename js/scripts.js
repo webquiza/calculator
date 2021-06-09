@@ -26,4 +26,3 @@ alert(result2);
 alert(result3);
 alert(result4);
 
-
